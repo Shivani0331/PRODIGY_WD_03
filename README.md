@@ -32,7 +32,7 @@ JavaScript — Game logic, turn handling, win checks, and player interactions.
 
 📦 **How to Run Locally**
 
-git clone https://github.com/Shivani0331/PRODIGY_WD_03
+git clone https://github.com/Shivani0331/PRODIGY_WD_03.git
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
